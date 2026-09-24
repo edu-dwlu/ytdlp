@@ -207,8 +207,8 @@ def home():
     return jsonify(
         {
             "status": "ok",
-            "service": "YouTube Short URL Resolver",
-            "developer": "Mrr Unknown"
+            "service": "YouTube Video URL Resolver",
+            "developer": "Mr Unknown"
         }
     )
 
